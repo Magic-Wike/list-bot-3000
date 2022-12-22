@@ -1,0 +1,7 @@
+**Just some random notesfor reference as i learn the discord.js lib**
+
+-Getting usernames:
+--"id" returns a 'Snowflake' (unique string of numbers)
+--"nickname" returns null if no nickname (deprecated?)
+--"displayName" is prob what you want...gives username without tag
+--"tag" is nickname with tag
