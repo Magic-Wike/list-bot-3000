@@ -5,3 +5,7 @@
 --"nickname" returns null if no nickname (deprecated?)
 --"displayName" is prob what you want...gives username without tag
 --"tag" is nickname with tag
+
+**common emoji ids**
+
+<:bitchiloveyou:1047169525365346335>
